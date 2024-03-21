@@ -14,13 +14,14 @@
   
 * NVIDIA's Enterprise AI solutions address a range of challenges faced by businesses looking to leverage artificial intelligence (AI) technologies to 
  enhance their operations and decision-making processes.
+```sh
   - Accelerated AI Workloads
   - Scalability and Performance:
   - Deep Learning and Neural Network Training:
   - AI Model Deployment and Inference
   - Data Center Efficiency and Cost Reduction
   - AI-powered Analytics and Insights:
-  
+  ```
 
 * NVIDIA's intended customers vary depending on the specific product or solution they offer. However, broadly speaking, NVIDIA serves a diverse range 
  of customers across several industries, including:
